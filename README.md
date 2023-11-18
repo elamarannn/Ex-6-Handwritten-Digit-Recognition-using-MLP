@@ -185,22 +185,7 @@ ACCURACY:
 
 ![280645506-8c8f0d3f-5e71-4f49-ab6f-e0333221d1a5](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/95efea42-f9e0-42f9-8347-acc04da80980)
 
-RESULT:
-Thus, the program to recognize the handwritten digits using the multi-layer perceptron (MLP) is developed and executted successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Result:
+
+Thus, the program to recognize the handwritten digits using the multi-layer perceptron (MLP) is developed and executted successfully.
