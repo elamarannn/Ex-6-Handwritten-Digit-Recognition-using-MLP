@@ -146,33 +146,43 @@ def test_prediction(index, W1, b1, W2, b2):
 
 ## Output :
 Y_TRAIN:
+
 ![280643855-c0baa896-f86e-4997-bbf7-febef35e3d30](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/0f7885d2-e020-4d38-9547-b72024d1cebd)
 
 ITERATIONS FROM 1-100:
+
 ![280644148-dc8a1d4a-21ee-4cd8-bc43-bd3598eb683a](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/14aedf1e-f296-4f14-a517-c5f01a5f5e82)
 
 ITERATIONS FROM 110-230:
+
 ![280644288-257e2346-7a7c-447d-a696-c72c58b0f4be](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/c899a0f3-b066-409e-86bd-b84f66325a3b)
 
 ITERATIONS FROM 240-340:
+
 ![280644455-281f86ae-c7bb-47e5-9f5f-79a56fb1647f](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/cdd500c8-23ef-413a-9941-ab4e3e92101d)
 
 ITERATIONS FROM 350-450:
+
 ![280644617-fc5fc009-5bac-47dc-921d-2355a16658c5](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/1c9e3b8c-035f-4b0c-aba3-7818ce2a10e2)
 
 ITERATIONS FROM 460-490:
+
 ![280644799-0c4ffb5c-8255-4c53-a8cd-70d4b7b3fec2](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/1c079dab-8342-4f23-8ba0-c1fc490eb07e)
 
 PREDICTING 5:
+
 ![280644927-52f9ce41-d557-44d4-8fca-d19686d41a52](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/033093e5-d9f9-4858-95d3-61c84c95a6d3)
 
 PREDICTING 2:
+
 ![280645121-3f763a67-b265-45d0-b392-81a9079765a6](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/40907419-5873-4587-8efd-c477013d7043)
 
 DEV_PREDICTIONS:
+
 ![280645333-5d8a704d-0375-474a-bb5b-d87b7beabb2a](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/ee7701b8-d640-4f28-ac2a-05aa019e7a11)
 
 ACCURACY:
+
 ![280645506-8c8f0d3f-5e71-4f49-ab6f-e0333221d1a5](https://github.com/elamarannn/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/113497531/95efea42-f9e0-42f9-8347-acc04da80980)
 
 RESULT:
